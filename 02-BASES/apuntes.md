@@ -8,3 +8,5 @@ If you want, you can install it globally. This is the command `npm i  nodemon`. 
 **Factory function:** Is just a function that create another function   
 **Recommendation:** When you implement a pack, you'll be dependent. So, is recommend don't use a lot packages, just use the necessary because if the future you want to change something , you'll need to change many dependencies. **Use adapter patron**   
 
+**Winston**: This library allow to save the logs, this log are save in combined.log
+
