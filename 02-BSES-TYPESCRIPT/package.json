@@ -1,7 +1,7 @@
 {
   "name": "02-bases",
   "version": "1.0.0",
-  "description": "Esta es mi primera aplicación real de Node",
+  "description": "This is my first real application with node",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
