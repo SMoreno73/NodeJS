@@ -1,5 +1,14 @@
-describe("app", () => {
+describe("Test in the App File", () => {
   test("should be true", () => {
-    expect(true).toBe(true);
+    //1. Arrange
+
+
+    //2.Act
+
+
+    //3. Assert
+
+
+    
   });
 });
