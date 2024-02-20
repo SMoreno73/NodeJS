@@ -1,6 +1,6 @@
 import { getUserById } from "../../src/js-foundation/03-callbacks";
 
-describe("js-foundation/03-callbacks.ts", () => {
+describe("js-foundation/04-arrow.ts", () => {
   test("getUserById should return an error if user does not exist", (done) => {
     const id = 10;
     getUserById(id, (err, user) => {
@@ -13,19 +13,11 @@ describe("js-foundation/03-callbacks.ts", () => {
   test("getUserById should return John Doe", (done) => {
     const id = 1;
     getUserById(id, (err, user) => {
-      //When I use ! at the final is because I'm sure this variable is defined
+      const { id, name } = user!;
       expect(err).toBeUndefined();
-      expect(user).toEqual({
-        id: 1,
-        name: "John Doe",
-      });
+      expect(id).toBe(1);
+      expect(name).toBe("John Doe");
       done();
-      /* This is another way I can to do the same 
-        expect(user).toEqual({
-          id:1,
-          name:'John Doe'
-        })
-        */
     });
   });
 });

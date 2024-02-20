@@ -26,5 +26,3 @@ export function getUserById( id: number, callback: (err?: string, user?:User) =>
 
   return callback( undefined, user );
 }
-
-
