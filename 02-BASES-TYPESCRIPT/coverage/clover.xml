@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1708519715765" clover="3.2.0">
-  <project timestamp="1708519715765" name="All files">
+<coverage generated="1727800435871" clover="3.2.0">
+  <project timestamp="1727800435871" name="All files">
     <metrics statements="184" coveredstatements="176" conditionals="15" coveredconditionals="15" methods="16" coveredmethods="10" elements="215" coveredelements="201" complexity="0" loc="184" ncloc="184" packages="2" files="10" classes="10"/>
     <package name="js-foundation">
       <metrics statements="102" coveredstatements="102" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="3"/>
-      <file name="01-template.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\01-template.ts">
+      <file name="01-template.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\01-template.ts">
         <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -15,7 +15,7 @@
         <line num="7" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
       </file>
-      <file name="02-destructuring.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\02-destructuring.ts">
+      <file name="02-destructuring.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\02-destructuring.ts">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -29,7 +29,7 @@
         <line num="10" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
       </file>
-      <file name="03-callbacks.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\03-callbacks.ts">
+      <file name="03-callbacks.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\03-callbacks.ts">
         <metrics statements="28" coveredstatements="28" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -60,7 +60,7 @@
         <line num="27" count="2" type="stmt"/>
         <line num="28" count="2" type="stmt"/>
       </file>
-      <file name="05-factory.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\05-factory.ts">
+      <file name="05-factory.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\05-factory.ts">
         <metrics statements="33" coveredstatements="33" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -96,7 +96,7 @@
         <line num="32" count="1" type="stmt"/>
         <line num="33" count="1" type="stmt"/>
       </file>
-      <file name="06-promises.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\06-promises.ts">
+      <file name="06-promises.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\js-foundation\06-promises.ts">
         <metrics statements="22" coveredstatements="22" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -124,7 +124,7 @@
     </package>
     <package name="plugins">
       <metrics statements="82" coveredstatements="74" conditionals="8" coveredconditionals="8" methods="13" coveredmethods="7"/>
-      <file name="get-age.plugin.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\plugins\get-age.plugin.ts">
+      <file name="get-age.plugin.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\plugins\get-age.plugin.ts">
         <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -134,7 +134,7 @@
         <line num="6" count="3" type="stmt"/>
         <line num="7" count="3" type="stmt"/>
       </file>
-      <file name="get-id.plugin.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\plugins\get-id.plugin.ts">
+      <file name="get-id.plugin.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\plugins\get-id.plugin.ts">
         <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -145,7 +145,7 @@
         <line num="7" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
       </file>
-      <file name="http-client.plugin.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\plugins\http-client.plugin.ts">
+      <file name="http-client.plugin.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\plugins\http-client.plugin.ts">
         <metrics statements="20" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -168,7 +168,7 @@
         <line num="19" count="1" type="stmt"/>
         <line num="20" count="1" type="stmt"/>
       </file>
-      <file name="index.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\plugins\index.ts">
+      <file name="index.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\plugins\index.ts">
         <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="cond" truecount="1" falsecount="0"/>
@@ -176,7 +176,7 @@
         <line num="4" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
       </file>
-      <file name="logger.plugin.ts" path="C:\Users\sebas\Documents\Codigo\NodeJS\02-BASES-TYPESCRIPT\src\plugins\logger.plugin.ts">
+      <file name="logger.plugin.ts" path="C:\Users\sebastianmoreno\Documents\NodeJS\02-BASES-TYPESCRIPT\src\plugins\logger.plugin.ts">
         <metrics statements="42" coveredstatements="37" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>

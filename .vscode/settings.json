@@ -1,3 +1,5 @@
 {
-  "audioCues.lineHasError": "auto"
+  "accessibility.signals.lineHasError": {
+    "sound": "auto"
+  }
 }
